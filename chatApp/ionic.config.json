@@ -1,0 +1,8 @@
+{
+  "name": "chatApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "62e1eddc"
+}
